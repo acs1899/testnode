@@ -1,0 +1,18 @@
+{
+  "name": "lesson4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "acs1899",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^0.9.0",
+    "cheerio": "^0.17.0",
+    "eventproxy": "^0.3.1",
+    "express": "^4.9.7",
+    "superagent": "^0.20.0"
+  }
+}

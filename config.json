@@ -1,0 +1,11 @@
+[
+    {
+        "url":"http://yangshengfun.com/",
+        "title":"#content .post .post-title",
+        "post":".entry"
+    },
+    {
+        "url":"https://cnodejs.org/",
+        "title":"#topic_list .topic_title"
+    }
+]
